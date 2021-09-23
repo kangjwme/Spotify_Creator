@@ -11,3 +11,5 @@ npm install
 ```
 
 之後就啟動檔案：`node indwx.js`
+
+生成出來的帳號，會存到 result.txt 檔案中
